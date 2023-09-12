@@ -1,6 +1,6 @@
 # Calculator JS
 
-![image](https://github.com/mariaperez15/Calculator/assets/123765659/f7853397-5db0-49b0-9c08-520056baa630)
+![image](https://github.com/mariaperez15/Calculator/assets/123765659/ee1ae516-aed2-48c2-8a88-84bb1f2113c3)
 
 Tecnologías usadas:
 - HTML
