@@ -1,9 +1,8 @@
 # Calculator JS
 
-![Captura de pantalla 2023-09-12 172517](https://github.com/mariaperez15/Calculator/assets/123765659/b9db2441-ce8a-4ba6-b702-0b74decb1b43)
+![image](https://github.com/mariaperez15/Calculator/assets/123765659/87005b03-d49a-49e7-981d-f939b39f82e3)
 
 Tecnologías usadas:
-
-HTML
-Css
-JavaScript
+- HTML
+- Css
+- JavaScript
